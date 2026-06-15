@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I'm Niranjan Rajwar
 
-<!--
-**rajwarniranjan021-gif/rajwarniranjan021-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student
+🌱 Currently learning Data Structures, Algorithms, and Web Development
+🚀 Interested in Software Development and Problem Solving
+📚 Always exploring new technologies and improving my skills
 
-Here are some ideas to get you started:
+### 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C++
+* HTML, CSS, JavaScript
+* Git & GitHub
+
+### 🎯 Goals
+
+* Build real-world projects
+* Improve coding skills
+* Become a better developer
+
+📫 Connect with me:
+GitHub: rajwarniranjan021-gif
+
+⚡ Keep learning, keep building!
+   <_>-Thanks for visiting my profile!-<_>
